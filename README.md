@@ -25,24 +25,12 @@ when working with data. English **C1**.
 
 ## Tech Stack
 
-**Machine Learning & Data**
-\`\`\`
-Python · TensorFlow · Keras · Scikit-learn · Pandas · CRISP-DM
-\`\`\`
-**Databases**
-\`\`\`
-SQL (MySQL · PostgreSQL) · NoSQL (Firebase · MongoDB)
-\`\`\`
-**Development**
-\`\`\`
-Flask · React.js · Vue.js · Git · GitHub Actions · Android Studio
-\`\`\`
-**Languages**
-\`\`\`
-Spanish (Native) · English (C1)
-\`\`\`
-
----
+| Área | Tecnologías |
+|------|------------|
+| **ML & Data** | Python · TensorFlow · Keras · Scikit-learn · Pandas · CRISP-DM |
+| **Databases** | SQL · NoSQL |
+| **Development** | Flask · React.js · Vue.js · Git · GitHub Actions · Android Studio |
+| **Languages** | Spanish (Native) · English (C1) |
 
 ## Featured Projects
 
